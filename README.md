@@ -1,3 +1,7 @@
 This is just a repo to keep track of my progress in the Complete Intro to React course.
 
 You can find the course on [https://btholt.github.io/complete-intro-to-react-v6/](https://github.com/btholt/citr-v6-project/) and the official repos for it are [here](https://github.com/btholt/complete-intro-to-react-v6) and [here](https://github.com/btholt/citr-v6-project/).
+
+Note from the course introduction:
+
+> This course is unique as compared to other React introductions because this course attempts to teach you not only React but the ecosystem around React. When I was learning React myself, I found myself frustrated that it seemed like every tutorial started on step 14 and left out the steps 1-13 of how to set up a React project. React is nearly never used by itself, so it's useful to know the tools you're using. I believe you, as a developer, should know how your tools work and what purpose they're serving. Many times have I taught courses similar to this one to hear people using tools and complaining about them because they don't actually know why they're using them, just that they're necessary. As such, in this course, we show you how to build projects without using any tools at all and introduce the various tools one at a time, so you understand the actual problem being solved by the tool. Hopefully, given the knowledge of the problem solved by the tool, you'll embrace the tools despite their complexities due to the ease and power they offer you.

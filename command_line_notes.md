@@ -26,3 +26,6 @@
 
 # Make ES Lint understand JSX
 `npm install -D eslint-plugin-import@2.22.1 eslint-plugin-jsx-a11y@6.4.1 eslint-plugin-react@7.22.0`
+
+# ES Lint React hooks
+`npm install -D eslint-plugin-react-hooks@4.2.0`

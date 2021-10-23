@@ -29,3 +29,6 @@
 
 # ES Lint React hooks
 `npm install -D eslint-plugin-react-hooks@4.2.0`
+
+# React Router
+`npm install react-router-dom@5.2.0`

@@ -32,3 +32,8 @@
 
 # React Router
 `npm install react-router-dom@5.2.0`
+
+# some Babel stuff for class properties and such
+`npm i -D @babel/plugin-proposal-class-properties@7.13.0 @babel/preset-env@7.13.5 @babel/eslint-parser@7.13.4`
+
+(upgraded eslint-parser to 7.14, since eslint had trouble finding .babelrc after adding the parser)
